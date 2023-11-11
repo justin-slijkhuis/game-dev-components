@@ -8,6 +8,7 @@ It's purpose is to build a library full of game development components that can 
 
 - C#
 - Perlin noise
+- Voronoi noise
 - World generation
 - Köppen climate classification
 - Component diagram
@@ -23,7 +24,8 @@ It's purpose is to build a library full of game development components that can 
 - The world must be able to generate infinitely.
 - The world must be able to be unique.
 - The world must be able to be shared with others using a seed resulting in exactly the same world generation.
-- The world must consist of the by developer chosen or given classification/biomes.
+- The world must consist of the by developer chosen or given classification/biomes with a logical order.
+- Biomes must be able to have a minimum and maximum length and width.
 - The world must be fluid, so no spontaneous borders or insanely small biomes/structures/attributes.
 - The world must be able to contain structures given by the developer.
 - Structures must be able to have multiple version with each having a certain chance to spawn.
