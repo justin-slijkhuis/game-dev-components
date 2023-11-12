@@ -9,6 +9,13 @@ It's purpose is to build a library full of game development components that can 
 - C#
 - Perlin noise
 - Voronoi noise
+- Simplex noise
+- Cellular automata
+- Fractal noise
+- Midpoint displacement
+- Diamond-square algorithm
+- Perlin worm
+- L-systems
 - World generation
 - Köppen climate classification
 - Component diagram
