@@ -16,6 +16,11 @@ It's purpose is to build a library full of game development components that can 
 - Diamond-square algorithm
 - Perlin worm
 - L-systems
+- Binary space partitioning
+- Drunkard's walk
+- Recursive division
+- Wavefunction collapse
+- Potential field algorithm
 - World generation
 - Köppen climate classification
 - Component diagram
