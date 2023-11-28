@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Game dev components
 
 This repository contains code of a learning project called: "Game dev components".
